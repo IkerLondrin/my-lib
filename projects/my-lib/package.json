@@ -1,0 +1,14 @@
+{
+  "name": "my-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^15.1.0",
+    "@angular/core": "^15.1.0",
+    "lodash.concat": "^4.5.0"
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "@types/lodash.concat": "^4.5.7",
+    "lodash.concat": "^4.5.0"
+  }
+}
